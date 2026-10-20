@@ -7,6 +7,9 @@ Supports dynamic switching between standard **RGB imagery**, **NDVI** (Normalize
 
 <img width="1179" height="624" alt="Screenshot 2026-10-20 at 1 43 54 PM" src="https://github.com/user-attachments/assets/b5f9ad8e-18cb-4672-8e8d-4db0204b4485" />
 
+<img width="1179" height="624" alt="Screenshot 2026-10-20 at 1 44 04 PM" src="https://github.com/user-attachments/assets/91574930-beb2-4423-9d4b-47697b6309ed" />
+
+
 <img width="1179" height="624" alt="Screenshot 2026-10-20 at 1 43 23 PM" src="https://github.com/user-attachments/assets/20702a4d-7e84-42d2-b2a6-c166ee589f40" />
 
 ---
