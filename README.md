@@ -4,6 +4,16 @@ A lightweight, real-time aerial mapping pipeline engineered to stream georeferen
 
 Supports dynamic switching between standard **RGB imagery**, **NDVI** (Normalized Difference Vegetation Index), and **NDRE** (Normalized Difference Red Edge) layers as a flight progresses.
 
+
+<img width="1179" height="624" alt="Screenshot 2026-10-20 at 1 43 54 PM" src="https://github.com/user-attachments/assets/b5f9ad8e-18cb-4672-8e8d-4db0204b4485" />
+
+<img width="1179" height="624" alt="Screenshot 2026-10-20 at 1 43 23 PM" src="https://github.com/user-attachments/assets/20702a4d-7e84-42d2-b2a6-c166ee589f40" />
+
+---
+## Demo
+
+screen recording on local host: https://drive.google.com/file/d/1yEv0kJHcgPNapgp3P2iQ1Rcs4EX0_afe/view?usp=sharing
+
 ---
 
 ## Architecture Overview
